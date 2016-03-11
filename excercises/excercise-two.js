@@ -12,5 +12,5 @@ var foo = {
 
 var findMentor = foo.bar.getMentor;
 
-foo.bar.getMentor();
-findMentor();
+foo.bar.getMentor(); // ???
+findMentor(); // ???
