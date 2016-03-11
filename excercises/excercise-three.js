@@ -15,4 +15,7 @@ var myLink = 'http://www.knithub.com/sewingWithJS';
 var myStack = ['Backbone', 'Node', 'MongoDB'];
 var sewingWithJS = new Project(myTitle, myLink, myStack);
 
+// What would the following invocation log?
+// What binding pattern causes this?
+// How would you modify .describeStack to achieve the expected result?
 sewingWithJS.describeStack();

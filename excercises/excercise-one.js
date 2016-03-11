@@ -9,4 +9,7 @@ var computer = {
   }
 };
 
+// What would the following log?
+// What binding pattern causes this?
+// How would we modify the .condescend to achieve the expected output?
 computer.condescend();
