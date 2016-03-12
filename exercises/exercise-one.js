@@ -11,5 +11,5 @@ var computer = {
 
 // What would the following log?
 // What binding pattern causes this?
-// How would we modify the .condescend to achieve the expected output?
+// How would we modify the .condescend method to achieve the desired output?
 computer.condescend();
