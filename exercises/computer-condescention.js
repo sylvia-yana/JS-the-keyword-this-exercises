@@ -1,5 +1,5 @@
 var computer = {
-  name: 'HAL',
+  name: 'HAL 9000',
   owner: 'Dave',
   condescend: function() {
     console.log('Processing...');
@@ -11,5 +11,6 @@ var computer = {
 
 // What would the following log?
 // What binding pattern causes this?
-// How would we modify the .condescend method to achieve the desired output?
 computer.condescend();
+
+// How would we modify the .condescend method to achieve the expected output?
