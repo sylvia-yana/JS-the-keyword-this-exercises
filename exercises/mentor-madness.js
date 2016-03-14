@@ -19,6 +19,6 @@ findMentor();
 
 // How would you modify the following invocations of findMentor 
 // to log each of the mentor's names?
-findMentor();
-findMentor();
-findMentor();
+findMentor(); // Should log 'Zach'
+findMentor(); // Should log 'Sunny'
+findMentor(); // Should log 'Beth'
