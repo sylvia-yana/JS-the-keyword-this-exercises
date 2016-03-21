@@ -12,5 +12,8 @@ var computer = {
 // What would the following log?
 // What binding pattern causes this?
 computer.condescend();
+// free function invocation
+// anonymous function invocation in a higher-order function, setTimeout, etc.
+// bound to window
 
 // How would we modify the .condescend method to achieve the expected output?
